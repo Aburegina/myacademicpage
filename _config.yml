@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Academic Portfolio"
+title                    : "Regina Abu"
 title_separator          : "-"
 name                     : &name "Regina Abu"
 description              : &description "Regina Abu's Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Regina Abu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Salut. Je m'appelle Regina, une étudiante doctorat de l'université de Miami. Mes recherches portent sul le féminisme, les études postcoloniales et l'Afrofuturisme."
   location         : "Miami"
   employer         : "University of Miami"
   uri              : # URL
