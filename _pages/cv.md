@@ -56,7 +56,7 @@ Talks
   TBA
 Teaching
 ======
-* 4 years of higher education teaching experience
+  * 4 years of higher education teaching experience
 Service and leadership
 ======
 * Participated in Judging Undergraduate research at Purdue University
