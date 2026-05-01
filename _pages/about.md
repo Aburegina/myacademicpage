@@ -11,5 +11,7 @@ I am a first-year PhD student in Linguistics, Cultural, and Literary Studies at 
 
 
 Personal Interests
+----
+
 I enjoy reading thrillers and detective novels, as well as detective and crime movies. Occasionally, I take long walks. I also love experimenting with new baking recipes and knitting!
 
