@@ -37,7 +37,7 @@ Work experience
   
 Skills
 ======
-* Proficient in Office Suite (Word, PP, Excel, etc)
+* Proficient in Office Suite (Word, PP, Excel, etc.)
 * Multilingual
   * French (Advanced)
   * English (Near native)
@@ -53,7 +53,7 @@ Publications
   
 Talks
 ======
- TBA
+  TBA
 Teaching
 ======
 * 4 years of higher education teaching experience
